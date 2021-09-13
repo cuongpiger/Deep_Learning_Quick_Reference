@@ -4,4 +4,4 @@
       * Kiến trúc của deep neural network.
       * Hai phương pháp forward propagation và backward propagation.
       * Giới thiệu hai activation function $sigmoid$ và $tanh$.
-      * Tối ưu hóa loss function bằng gradient descent và các biến thể của nó.
+      * Tối ưu hóa loss function bằng gradient descent và các biến thể của nó như Momentum, RMSProp, Adam.
