@@ -18,7 +18,11 @@
           * Gợi ý Keras có tích hợp scikit-learn nên hoàn toàn có thể áp dụng K-Fold, scikit-learn pipeline, grid search lên các Keras model.
 
     * [01.test.ipynb](Chapter%2001.%20The%20Building%20Blocks%20of%20Deep%20Learning/01.test.ipynb)
-      * Test dot product của hai matrix sau khi install TensorFlow 1.x. 
+      * Test dot product của hai matrix sau khi install TensorFlow 1.x.
+* **Chapter 02. Using Deep Learning to Solve Regression Problems**
+  * [00.notebook.md](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/00.notebook.md) 
+    * Những lợi ích của deep neural network so với các linear model truyền thống.
+    * Những hạn chế của neural network so với các model machine learning truyền thống.
 
 # Linh tinh
 * Source code tác giả: [https://github.com/PacktPublishing/Deep-Learning-Quick-Reference](https://github.com/PacktPublishing/Deep-Learning-Quick-Reference)
