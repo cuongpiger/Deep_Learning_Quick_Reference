@@ -23,6 +23,16 @@
   * [00.notebook.md](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/00.notebook.md) 
     * Những lợi ích của deep neural network so với các linear model truyền thống.
     * Những hạn chế của neural network so với các model machine learning truyền thống.
+  * [01.alcohol_prediction.ipynb](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/01.alcohol_prediction.ipynb)
+    * Tìm hiểu về tập dataset wine quality. 
+    * Hướng dẫn cách build một model MLP trên tập dataset wine quality - model sẽ dự đoán continous variable `alcohol` dựa trên 9 continous independent variable khác.
+    * Vạch ra chiến lược khi build một model MLP bằng neural network, các bước thực hiện.
+    * Giải thích cơ bản các tham số như `batch_size`, `epochs`, `validation_data`, `validation_split`, `verbose` của một Keras' model.
+    * Evaluation model bằng MAE, giới thiệu luôn về RMSE.
+    * So sánh giữa true value và predicted value bằng `sns.distplot()`.
+    * Dùng model để predict dữ liệu mới.
+    * Save và load Keras model.
+    * Export Seaborn's image.
 
 # Linh tinh
 * Source code tác giả: [https://github.com/PacktPublishing/Deep-Learning-Quick-Reference](https://github.com/PacktPublishing/Deep-Learning-Quick-Reference)
