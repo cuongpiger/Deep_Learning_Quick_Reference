@@ -38,7 +38,7 @@
     * Nhắc lại về bias error và variance error và các cách giảm hai độ lỗi này.
     * Nhắc lại về save và load Keras model.
     * Hướng dẫn nhận xét biểu đồ `sns.distplot`.
-      ![](./Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/data/pred_dist_deep.jpg) 
+      ![](./Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/plots/pred_dist_deep.jpg) 
     * Nhắc lại các bước cần làm trước khi xây dựng một deep neural network.
     * Giới thiệu về tối ưu hóa model parameter và hyperparameter.
 
