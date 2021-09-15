@@ -23,7 +23,9 @@
   * [00.notebook.md](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/00.notebook.md) 
     * Những lợi ích của deep neural network so với các linear model truyền thống.
     * Những hạn chế của neural network so với các model machine learning truyền thống.
-  * [01.alcohol_prediction.ipynb](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/01.alcohol_prediction.ipynb)
+  * [01.train_val_test.ipynb](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/01.train_val_test.ipynb)
+    * Dùng để tách bộ data wine quality thành các training data, valuation data và test data.
+  * [02.alcohol_prediction.ipynb](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/02.alcohol_prediction.ipynb)
     * Tìm hiểu về tập dataset wine quality. 
     * Hướng dẫn cách build một model MLP trên tập dataset wine quality - model sẽ dự đoán continous variable `alcohol` dựa trên 9 continous independent variable khác.
     * Vạch ra chiến lược khi build một model MLP bằng neural network, các bước thực hiện.
@@ -33,7 +35,7 @@
     * Dùng model để predict dữ liệu mới.
     * Save và load Keras model.
     * Export Seaborn's image.
-  * [02.building_deep_neural_network.ipynb](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/02.building_deep_neural_network.ipynb)
+  * [03.building_deep_neural_network.ipynb](Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/03.building_deep_neural_network.ipynb)
     * Thử thêm nhiều hidden layer hơn vào network của bài toán wine quality.
     * Nhắc lại về bias error và variance error và các cách giảm hai độ lỗi này.
     * Nhắc lại về save và load Keras model.
