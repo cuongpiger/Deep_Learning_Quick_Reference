@@ -44,8 +44,19 @@
     * Nhắc lại các bước cần làm trước khi xây dựng một deep neural network.
     * Giới thiệu về tối ưu hóa model parameter và hyperparameter.
 * **Chapter 04. Using Deep Learning to solve Binary Classification problems**
-  * **Binary classification and deep neural networks**: introduce in this chapter we are going to discuss the binary classification using deep neural network
-    * 
+  * **Binary classification and deep neural networks**: 
+    * Introduce in this chapter we are going to discuss the binary classification using deep neural network. We are also discuss about the benefits and drawbacks of deep neural network compared to tradional classifier in this section.
+    * What is the situation in which we should use deep neural networks and where we should not.
+  * **Case study - epileptic seizure recognition**:
+    * Introduce the **EEG** dataset including 178 features that we use to build the classifier model in this chapter.
+    * **Defining out dataset**: where can I download this EEG dataset.
+    * **Loading data**: prepare training data, val data and test data before training the model.
+    * **Model inputs and outputs**: repeat what is input data and the features for it. Relabel for target variable.
+    * **The cost function**: using the binary cross-entropy (log loss) cost function and introducing its formula.
+    * **Using metrics to _assess_ [quyết định] performace**: introducting the ROC-AUC.
+  * **Building a binaru classifier in keras**:
+    * Introduce **checkpoint callback** technique to save network's weights avoiding variance bias.
+    * Using ROC-AUC, Precision, Recall and F1-score to model's evaluation.
 
 # Linh tinh
 * Source code tác giả: [https://github.com/PacktPublishing/Deep-Learning-Quick-Reference](https://github.com/PacktPublishing/Deep-Learning-Quick-Reference)
