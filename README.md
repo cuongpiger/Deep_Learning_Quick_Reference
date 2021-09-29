@@ -43,6 +43,9 @@
       ![](./Chapter%2002.%20Using%20Deep%20Learning%20to%20Solve%20Regression%20Problems/plots/pred_dist_deep.jpg) 
     * Nhắc lại các bước cần làm trước khi xây dựng một deep neural network.
     * Giới thiệu về tối ưu hóa model parameter và hyperparameter.
+* **Chapter 04. Using Deep Learning to solve Binary Classification problems**
+  * **Binary classification and deep neural networks**: introduce in this chapter we are going to discuss the binary classification using deep neural network
+    * 
 
 # Linh tinh
 * Source code tác giả: [https://github.com/PacktPublishing/Deep-Learning-Quick-Reference](https://github.com/PacktPublishing/Deep-Learning-Quick-Reference)
